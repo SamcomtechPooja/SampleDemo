@@ -1,18 +1,9 @@
 {
   "name": "rtcmulticonnection-v3",
   "preferGlobal": false,
-  "version": "3.3.8",
-  "author": {
-    "name": "Muaz Khan",
-    "email": "muazkh@gmail.com",
-    "url": "http://www.muazkhan.com/"
-  },
+  "version": "3.3.8",  
   "description": "RTCMultiConnection is a WebRTC JavaScript wrapper library runs top over RTCPeerConnection API to support all possible peer-to-peer features.",
-  "main": "server.js",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/muaz-khan/RTCMultiConnection.git"
-  },
+  "main": "server.js",  
   "scripts": {
     "start": "node server.js"
   },
@@ -34,22 +25,17 @@
     "android",
     "rtcweb",
     "rtcmulticonnection.js",
-    "multirtc",
-    "webrtc-experiment",
-    "javascript-library",
-    "muaz",
-    "muaz-khan"
+    "multirtc",   
   ],
   "dependencies": {
     "socket.io": "0.9.17"
-  },
+  },  
+  "require": {
+    "php": "^5.6.0"
+  },  
   "analyze": false,
   "license": "MIT",
-  "readmeFilename": "README.md",
-  "bugs": {
-    "url": "https://github.com/muaz-khan/RTCMultiConnection/issues",
-    "email": "muazkh@gmail.com"
-  },
+  "readmeFilename": "README.md",  
   "homepage": "https://rtcmulticonnection.herokuapp.com/",
   "_from": "rtcmulticonnection-v3@",
   "devDependencies": {
