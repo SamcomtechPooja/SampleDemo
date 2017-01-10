@@ -24,6 +24,6 @@ key = "f188ef04ad4ad8ba6a18"
 secret = "1b61a13ea5bdf5f12970"
 
 $data['message'] = $msg;
-$pusher->trigger($unique, 'my_event1', $data);
+$pusher->trigger($unique, 'my_event1', $data);*/
 
 ?>
