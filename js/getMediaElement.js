@@ -1,10 +1,3 @@
-// Last time updated at August 19, 2014, 14:46:23
-
-// Muaz Khan     - www.MuazKhan.com
-// MIT License   - www.WebRTC-Experiment.com/licence
-// Documentation - github.com/muaz-khan/WebRTC-Experiment/tree/master/getMediaElement
-
-// Demo          - www.WebRTC-Experiment.com/getMediaElement
 
 document.write('<link rel="stylesheet" href="https://cdn.WebRTC-Experiment.com/getMediaElement.css">');
 
