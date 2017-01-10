@@ -85,7 +85,7 @@
                 alert("Please enter password");
             }
             else {
-                location.href = 'Videochat.php';
+                location.href = 'Videochat.html';
                 /*$.ajax({
                     type: 'POST',
                     data: {email:email,password:password,value:"login"},
@@ -122,7 +122,7 @@
             alert("Please enter password");
         }
         else {
-            location.href = 'Videochat.php';
+            location.href = 'Videochat.html';
             /*$.ajax({
              type: 'POST',
              data: {email:email,password:password,value:"login"},
