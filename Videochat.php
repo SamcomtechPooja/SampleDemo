@@ -79,6 +79,7 @@
                         <input type="text" id="room-id" autocorrect=off autocapitalize=off size=20 style="display: none;">
                         <button id="open-room" class="btn btn-lg btn-primary">Make a call</button>
                         <!--<button id="join-room">Join Room</button>-->
+                        <button id="close-room" class="btn btn-lg btn-danger">Hangup</button>
                         <button id="open-or-join-room" style="display: none;">Auto Open Or Join Room</button>
 
                         <div id="room-urls" style="text-align: center;display: none;
@@ -105,6 +106,10 @@
 <script src="//js.pusher.com/3.2/pusher.min.js"></script>
 
 <script>
+
+    document.getElementById('close-room').onclick = function() {
+        location.reload();
+    }
     document.getElementById('open-room').onclick = function() {
         /*disableInputButtons();*/
         /*open-room*/
