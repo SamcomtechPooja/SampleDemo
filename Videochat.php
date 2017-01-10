@@ -1,3 +1,6 @@
+<?php
+print "hello world";
+?>
 <!DOCTYPE html>
 <html lang="en">
 
@@ -61,7 +64,7 @@
 </head>
 <body>
 
-<nav class="navbar navbar-default navbar-fixed-top">
+<!--<nav class="navbar navbar-default navbar-fixed-top">
     <div class="container">
         <div id="navbar" class="navbar-collapse collapse">
             <ul class="nav navbar-nav navbar-right">
@@ -69,7 +72,7 @@
             </ul>
         </div>
     </div>
-</nav>
+</nav>-->
 <div class="container">
     <header class="header" id="top">
         <div class="row" style=" margin-top: 10%;">
