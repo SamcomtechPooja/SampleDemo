@@ -29,10 +29,7 @@
   ],
   "dependencies": {
     "socket.io": "0.9.17"
-  },  
-  "require": {
-    "php": "^5.6.0"
-  },  
+  },   
   "analyze": false,
   "license": "MIT",
   "readmeFilename": "README.md",  
