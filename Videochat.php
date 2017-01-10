@@ -65,7 +65,7 @@
     <div class="container">
         <div id="navbar" class="navbar-collapse collapse">
             <ul class="nav navbar-nav navbar-right">
-                <li><a id="logout" href="javascript:void(0)" >Logout</a></li>
+                <!--<li><a id="logout" href="javascript:void(0)" >Logout</a></li>-->
             </ul>
         </div>
     </div>
